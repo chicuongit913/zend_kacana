@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command
+END
+ConvertDoctrine1SchemaCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/ConvertDoctrine1SchemaCommand.php
+END
+RunDqlCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/RunDqlCommand.php
+END
+InfoCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/InfoCommand.php
+END
+GenerateRepositoriesCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/GenerateRepositoriesCommand.php
+END
+ConvertMappingCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/ConvertMappingCommand.php
+END
+EnsureProductionSettingsCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/EnsureProductionSettingsCommand.php
+END
+GenerateProxiesCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/GenerateProxiesCommand.php
+END
+ValidateSchemaCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/ValidateSchemaCommand.php
+END
+GenerateEntitiesCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/GenerateEntitiesCommand.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Platform
+END
+PlatformInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Platform/PlatformInterface.php
+END
+Sql92.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Platform/Sql92.php
+END
+Sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Platform/Sqlite.php
+END
+SqlServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Platform/SqlServer.php
+END
+Mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Platform/Mysql.php
+END
+Postgresql.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Platform/Postgresql.php
+END

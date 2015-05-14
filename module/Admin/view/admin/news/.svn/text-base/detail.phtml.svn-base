@@ -1,0 +1,52 @@
+<?php
+	// SET DATA FOR FORM 
+	$data = (isset($this->data))?$this->data:0;
+	
+	// BEGIN FORM 
+	$this->form_helper()->beginForm();
+	
+	// FIELD PUBLIC FORM INCLUDE STATUS-PRIORITY-CREATED-UPDATED
+	$this->publish_helper()->publish($this->data)
+							->status()
+							->priority()
+							->created()
+							->updated()
+							->toString();
+	
+	$this->group_helper()
+		 ->group(
+		 		array
+		 		(
+	 				"data" => $data,
+	 				"id"=>"group_infomation",
+	 				"name"=>"INFORMATION"
+		 		))
+			 
+			 ->input(
+			 		array
+			 		(
+		 				"name_field"=>"Title",
+		 				"multilang"=>"Off",
+		 				"type"=>"text",
+		 				"id"=>"Title",
+		 				"name"=>"Title",
+		 				"required"=>"required"
+			 		))
+			 
+			 ->textarea(
+			 		array
+			 		(
+		 				"name_field"=>"Content",
+		 				"multilang"=>"Off",
+		 				"id"=>"Content",
+		 				"name"=>"Content",
+		 				"mce"=>"MceOn",
+		 				"required"=>"required"
+			 		))
+		 
+		 ->endgroup()
+		 
+	->toString();
+	
+	$this->form_helper()->buttonForm($data)
+?>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mail/Transport
+END
+Smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mail/Transport/Smtp.php
+END
+SmtpOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mail/Transport/SmtpOptions.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mail/Transport/File.php
+END
+Sendmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mail/Transport/Sendmail.php
+END
+TransportInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mail/Transport/TransportInterface.php
+END
+FileOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mail/Transport/FileOptions.php
+END

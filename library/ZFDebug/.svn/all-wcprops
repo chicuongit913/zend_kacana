@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/php_projects/!svn/ver/2007/zend2admin/library/ZFDebug
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/php_projects/!svn/ver/2007/zend2admin/library/ZFDebug/license.txt
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/php_projects/!svn/ver/2007/zend2admin/library/ZFDebug/.gitignore
+END
+README.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/php_projects/!svn/ver/2007/zend2admin/library/ZFDebug/README.markdown
+END

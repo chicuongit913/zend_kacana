@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/composer
+END
+autoload_real.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/composer/autoload_real.php
+END
+ClassLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/composer/ClassLoader.php
+END
+autoload_classmap.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/composer/autoload_classmap.php
+END
+autoload_namespaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/composer/autoload_namespaces.php
+END
+installed.json
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/composer/installed.json
+END

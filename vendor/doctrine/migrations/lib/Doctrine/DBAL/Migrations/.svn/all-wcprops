@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/migrations/lib/Doctrine/DBAL/Migrations
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/migrations/lib/Doctrine/DBAL/Migrations/Version.php
+END
+AbstractMigration.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/migrations/lib/Doctrine/DBAL/Migrations/AbstractMigration.php
+END
+Migration.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/migrations/lib/Doctrine/DBAL/Migrations/Migration.php
+END
+IrreversibleMigrationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/migrations/lib/Doctrine/DBAL/Migrations/IrreversibleMigrationException.php
+END
+SkipMigrationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/migrations/lib/Doctrine/DBAL/Migrations/SkipMigrationException.php
+END
+AbortMigrationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/migrations/lib/Doctrine/DBAL/Migrations/AbortMigrationException.php
+END
+MigrationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/migrations/lib/Doctrine/DBAL/Migrations/MigrationException.php
+END
+MigrationsVersion.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/migrations/lib/Doctrine/DBAL/Migrations/MigrationsVersion.php
+END
+OutputWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/migrations/lib/Doctrine/DBAL/Migrations/OutputWriter.php
+END

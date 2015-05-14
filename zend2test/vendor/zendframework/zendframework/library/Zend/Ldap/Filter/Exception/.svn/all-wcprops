@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Ldap/Filter/Exception
+END
+FilterException.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Ldap/Filter/Exception/FilterException.php
+END
+ExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Ldap/Filter/Exception/ExceptionInterface.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Authentication/Storage
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Authentication/Storage/Session.php
+END
+StorageInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Authentication/Storage/StorageInterface.php
+END
+NonPersistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Authentication/Storage/NonPersistent.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Proxy
+END
+ProxyFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Proxy/ProxyFactory.php
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Proxy/Proxy.php
+END
+ProxyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Proxy/ProxyException.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Proxy/Autoloader.php
+END

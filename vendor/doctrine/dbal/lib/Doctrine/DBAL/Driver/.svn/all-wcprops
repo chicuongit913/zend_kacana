@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver
+END
+PDOConnection.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/Connection.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/Statement.php
+END
+ResultStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/ResultStatement.php
+END
+PDOStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php
+END

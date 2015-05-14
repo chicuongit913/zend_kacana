@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Exception
+END
+ErrorException.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Exception/ErrorException.php
+END
+RuntimeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Exception/RuntimeException.php
+END
+ExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Exception/ExceptionInterface.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Exception/InvalidArgumentException.php
+END
+UnexpectedValueException.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Exception/UnexpectedValueException.php
+END

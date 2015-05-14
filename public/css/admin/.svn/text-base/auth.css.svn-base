@@ -1,0 +1,129 @@
+body
+{
+	background: url("/images/admin/bg-login.gif") repeat scroll 0 0 #222222;
+    color: #FFFFFF;
+}
+div.login
+{
+	background: url("/images/admin/bg-login-top.png") repeat-x scroll left top transparent;
+    height: 206px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -20px;
+}
+
+div.login-top
+{
+	padding: 120px 0 20px;
+    text-align: center;
+    width: 100%;
+}
+div.login-top h1
+{
+	
+}
+
+div.login-content .error
+{
+	color: red;
+    display: inline-block;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    width: 300px;
+	font-style: italic;
+}
+
+div.login-content
+{
+	text-align: center;
+}
+
+div.login-content .username
+{
+	display: block;
+    margin: 20px;
+}
+
+div.login-content .username label
+{
+	color: #FFFFFF;
+    display: inline-block;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    width: 110px;
+}
+
+div.login-content .username input
+{
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid;
+    border-radius: 4px 4px 4px 4px;
+    height: 25px;
+    width: 200px;
+    
+}
+
+div.login-content .password
+{
+	margin-bottom: 15px;
+}
+
+div.login-content .password label
+{
+	color: #FFFFFF;
+    display: inline-block;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    width: 110px;
+}
+
+div.login-content .password input
+{
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid;
+    border-radius: 4px 4px 4px 4px;
+    height: 25px;
+    width: 200px;
+}
+
+
+div.login-content .remember
+{
+	margin-bottom: 20px;
+    margin-left: 200px;
+}
+
+div.login-content .remember label
+{
+	font-family: Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+div.login-content .remember input
+{
+	
+}
+
+
+div.login-content .submit
+{
+	margin-left: 254px;
+}
+
+div.login-content .submit input
+{
+	background: url("/images/admin/bg-button-green.gif") repeat-x scroll left top #459300 !important;
+    border: 1px solid #459300 !important;
+    color: #FFFFFF !important;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 11px !important;
+    padding: 4px 7px !important;
+	border-radius: 4px 4px 4px 4px;
+}
+

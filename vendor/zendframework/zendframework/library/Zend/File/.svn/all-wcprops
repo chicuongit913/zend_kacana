@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/File
+END
+PhpClassFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/File/PhpClassFile.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/File/composer.json
+END
+ClassFileLocator.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/File/ClassFileLocator.php
+END

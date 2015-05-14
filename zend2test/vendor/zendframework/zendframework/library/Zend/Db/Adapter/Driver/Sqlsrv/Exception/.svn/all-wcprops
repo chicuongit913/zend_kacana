@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Sqlsrv/Exception
+END
+ErrorException.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Sqlsrv/Exception/ErrorException.php
+END
+ExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Sqlsrv/Exception/ExceptionInterface.php
+END

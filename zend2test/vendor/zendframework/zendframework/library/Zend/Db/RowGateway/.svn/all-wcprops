@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/RowGateway
+END
+RowGateway.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/RowGateway/RowGateway.php
+END
+AbstractRowGateway.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/RowGateway/AbstractRowGateway.php
+END
+RowGatewayInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/RowGateway/RowGatewayInterface.php
+END

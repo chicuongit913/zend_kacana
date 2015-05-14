@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation
+END
+AbstractAnnotationsListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/AbstractAnnotationsListener.php
+END
+Attributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Attributes.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Filter.php
+END
+Exclude.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Exclude.php
+END
+Type.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Type.php
+END
+ElementAnnotationsListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/ElementAnnotationsListener.php
+END
+Options.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Options.php
+END
+ErrorMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/ErrorMessage.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Object.php
+END
+Required.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Required.php
+END
+AbstractStringAnnotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/AbstractStringAnnotation.php
+END
+InputFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/InputFilter.php
+END
+AllowEmpty.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/AllowEmpty.php
+END
+AbstractArrayAnnotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/AbstractArrayAnnotation.php
+END
+ValidationGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/ValidationGroup.php
+END
+Flags.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Flags.php
+END
+Input.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Input.php
+END
+Name.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Name.php
+END
+AnnotationBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/AnnotationBuilder.php
+END
+ComposedObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/ComposedObject.php
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Validator.php
+END
+FormAnnotationsListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/FormAnnotationsListener.php
+END
+Hydrator.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Form/Annotation/Hydrator.php
+END

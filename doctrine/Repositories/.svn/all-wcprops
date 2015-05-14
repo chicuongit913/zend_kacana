@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/php_projects/!svn/ver/2054/zend2admin/doctrine/Repositories
+END
+ManagerRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/php_projects/!svn/ver/2007/zend2admin/doctrine/Repositories/ManagerRepository.php
+END
+ParamRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/php_projects/!svn/ver/2222/zend2admin/doctrine/Repositories/ParamRepository.php
+END
+PageRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/php_projects/!svn/ver/2222/zend2admin/doctrine/Repositories/PageRepository.php
+END
+ContactRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/php_projects/!svn/ver/2007/zend2admin/doctrine/Repositories/ContactRepository.php
+END
+MediafileRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/php_projects/!svn/ver/2054/zend2admin/doctrine/Repositories/MediafileRepository.php
+END
+MediafolderRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/php_projects/!svn/ver/2054/zend2admin/doctrine/Repositories/MediafolderRepository.php
+END
+NewsRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/php_projects/!svn/ver/2007/zend2admin/doctrine/Repositories/NewsRepository.php
+END
+LogRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/php_projects/!svn/ver/2007/zend2admin/doctrine/Repositories/LogRepository.php
+END
+ContentRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/php_projects/!svn/ver/2222/zend2admin/doctrine/Repositories/ContentRepository.php
+END
+CommonRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/php_projects/!svn/ver/2007/zend2admin/doctrine/Repositories/CommonRepository.php
+END
+UserRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/php_projects/!svn/ver/2007/zend2admin/doctrine/Repositories/UserRepository.php
+END

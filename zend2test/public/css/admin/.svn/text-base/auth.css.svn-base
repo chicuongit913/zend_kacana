@@ -1,0 +1,19 @@
+h1
+{
+	text-align: center;
+}
+form table
+{
+	margin: auto;
+}
+.error
+{
+	color:red;
+}
+.message
+{
+	display: block;
+	text-align: center;
+	margin: auto;
+	color: red;
+}

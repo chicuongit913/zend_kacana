@@ -1,0 +1,38 @@
+<html>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Zend 2 + Doctrine 2 - Admin </title>
+		<link rel="stylesheet" href="/css/admin/auth.css" type="text/css" media="screen" />
+	</head>
+	<body>
+	<form method="post">
+		<div class="login" >
+			<div class="login-top" >
+				<h1> KACANA  Admin ® </h1>
+			</div>
+			<div class="login-content" >
+				<div class="error" >
+					<?php echo $this->error;?>
+				</div>
+				<div class="username" >
+					<label> User Name </label>
+					<input type="text" name="username" >
+				</div>
+				<div class="password" >
+					<label> Password </label>
+					<input type="password" name="password" >
+				</div>
+				<div class="remember" >
+					<input type="checkbox" value=" Remember me" >
+					<label>Remember me</label>
+				</div>
+				<div class="submit" >
+					<input type="submit" value="Submit" >
+				</div>
+			</div>
+		</div>
+	</form>
+	</body>
+</html>
+
+<span class="message"><?php echo $this->message; ?></span>

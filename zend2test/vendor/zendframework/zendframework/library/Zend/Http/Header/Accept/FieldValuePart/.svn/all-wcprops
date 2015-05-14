@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Http/Header/Accept/FieldValuePart
+END
+CharsetFieldValuePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Http/Header/Accept/FieldValuePart/CharsetFieldValuePart.php
+END
+AbstractFieldValuePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Http/Header/Accept/FieldValuePart/AbstractFieldValuePart.php
+END
+EncodingFieldValuePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Http/Header/Accept/FieldValuePart/EncodingFieldValuePart.php
+END
+AcceptFieldValuePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Http/Header/Accept/FieldValuePart/AcceptFieldValuePart.php
+END
+LanguageFieldValuePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Http/Header/Accept/FieldValuePart/LanguageFieldValuePart.php
+END

@@ -1,0 +1,62 @@
+<div id="manager">
+
+  
+	<input id="target" type="hidden" value="<?php echo $this->params->target;?>"/>	
+	<input id="subject" type="hidden" value="<?php echo $this->params->subject;?>"/>
+	<input id="subjectid" type="hidden" value="<?php echo $this->params->subjectid;?>"/>
+	<input id="album" type="hidden" value="<?php echo $this->params->album;?>"/>
+	<input id="typefileid" type="hidden" value="<?php echo $this->params->typefileid;?>"/>
+	
+	<input id="tinytarget" type="hidden" value="<?php echo $this->params->tinytarget;?>"/>	
+	<input id="url" type="hidden" value="<?php echo $this->params->url;?>"/>
+		
+	<div id="tabs">
+		<ul>
+			<li id="#tab1" class="tab <?php if($this->params->panel == 1){ echo 'active';}?>">Upload Images</li>
+			<li id="#tab2" class="tab <?php if($this->params->panel == 2){ echo 'active';}?>">Choose Images</li>
+			<li id="#tab3" class="tab <?php if($this->params->panel == 3){ echo 'active';}?>">Upload Videos</li>
+			<li id="#tab4" class="tab <?php if($this->params->panel == 4){ echo 'active';}?>">Choose Videos</li>
+			<li id="#tab5" class="tab <?php if($this->params->panel == 5){ echo 'active';}?>">Convert Videos</li>
+		</ul>
+	</div> 
+	  
+	<div id="header">
+		<span>
+			<img id="icon" src="/images/admin/search.png"/><select id="search"></select><img id="clear" src="/images/admin/close.png"/><?php echo $this->typefile;?>
+		</span>	
+		<span class="input_newsubject_media" >
+			<input type="text"/>
+		</span>
+		<span class="button_newsubject_media" >
+			New Subject
+		</span>	
+	</div>
+	
+	<div id="panels">
+	
+		<div id="loader">
+			<div id="mini"><img src="/images/admin/loader.gif"/></div>
+			<div id="loading"><img src="/images/admin/preloader.gif"/></div>
+		</div>
+		
+		<div id="panel1" class="panel <?php if($this->params->panel == 1){ echo 'active';}?>">
+		</div>
+		
+		<div id="panel2" class="panel <?php if($this->params->panel == 2){ echo 'active';}?>">
+		</div>
+		
+		<div id="panel3" class="panel <?php if($this->params->panel == 3){ echo 'active';}?>">
+		</div>
+		
+		<div id="panel4" class="panel <?php if($this->params->panel == 4){ echo 'active';}?>">
+		</div>
+		
+		<div id="panel5" class="panel <?php if($this->params->panel == 5){ echo 'active';}?>">
+		</div>
+		
+		
+	</div>
+	
+	
+		
+</div>

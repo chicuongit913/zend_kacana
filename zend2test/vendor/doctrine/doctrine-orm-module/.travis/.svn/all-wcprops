@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/.travis
+END
+migrations-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/.travis/migrations-config.xml
+END
+travis.local.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/.travis/travis.local.php
+END
+run-cli.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/.travis/run-cli.sh
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/.travis/composer.json
+END
+application.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/.travis/application.config.php
+END
+dummy-import.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/.travis/dummy-import.sql
+END
+migrations-execute-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/.travis/migrations-execute-config.xml
+END
+Version20120714005702.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/.travis/Version20120714005702.php
+END

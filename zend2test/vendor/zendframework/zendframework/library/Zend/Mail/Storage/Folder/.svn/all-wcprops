@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Folder
+END
+Maildir.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Folder/Maildir.php
+END
+FolderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Folder/FolderInterface.php
+END
+Mbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Folder/Mbox.php
+END

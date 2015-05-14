@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/php_projects/!svn/ver/2054/zend2admin/module/Admin/view/admin/news
+END
+edit.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/news/edit.phtml
+END
+add.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/news/add.phtml
+END
+detail.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/php_projects/!svn/ver/2222/zend2admin/module/Admin/view/admin/news/detail.phtml
+END
+index.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/php_projects/!svn/ver/2222/zend2admin/module/Admin/view/admin/news/index.phtml
+END

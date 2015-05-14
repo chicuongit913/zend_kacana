@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Permissions/Acl/Resource
+END
+ResourceInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Permissions/Acl/Resource/ResourceInterface.php
+END
+GenericResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Permissions/Acl/Resource/GenericResource.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-orm-module
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-orm-module/LICENSE
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-orm-module/.travis.yml
+END
+Module.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-orm-module/Module.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-orm-module/composer.json
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-orm-module/README.md
+END
+UPGRADE.md
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-orm-module/UPGRADE.md
+END

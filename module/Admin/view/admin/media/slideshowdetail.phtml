@@ -1,0 +1,58 @@
+<!-- Validation Form Panel  -->
+<div class="validation_error_panel"></div>
+<?php
+$data = (isset($this->data))?$this->data:"";
+
+$this->form()->beginForm();
+
+if(isset($this->data))
+	$this->publish()->priority()->status()->created($this->data)->updated()->render();
+else
+	$this->publish()->priority()->status()->render();
+
+$this->form()->lineForm($this->manager);
+$this->group(array("data" => $data,"id"=>"group_infomation","name"=>"INFOMATION"))
+
+	 ->input(array("name_field"=>"Gallery Name","type"=>"text","id"=>"name","name"=>"name","required"=>"required"))
+	 ->image(array('name'=>'image','width'=>'900','height'=>'350'),"none")
+	 ->endgroup()
+	 
+->toString();
+
+?>
+	
+
+<?php
+	if(isset($this->data))
+	{?>
+		<input type="hidden" id="gallery_id" value="<?php echo $this->data->getId(); ?>">
+	<?php }
+	else{?>
+		<input type="hidden" id="gallery_id" value="0">
+		
+	<?php }
+?>
+<!-- CHOOSE IMAGE FOR SLIDESHOW LIST  -->
+<div class="list_area">
+	<ul id="sortable">
+	<?php if(isset($this->data_detail_gallery)){
+			foreach ($this->data_detail_gallery as $image_item)
+			{?>
+				<li class="ui-state-default">
+					<img class="insidelist" src="<?php echo $image_item->getImage();?>">
+					<span class="remove_image"></span>
+				</li> 
+		<?php }
+	}?>
+	    
+	</ul>
+</div>
+<span class="slide_button">
+	<input id="import_image" type="button" value="add image to slide" class="add_slide add"/>
+	<input id="submitform" type="button" value="finish slide" class="add_slide finish"/>
+	<span class="wait_icon">
+		<img height="50" width="80" src="/images/default/search_room.gif">
+	</span>
+</span>
+<span class="slide_remove">
+</span>	

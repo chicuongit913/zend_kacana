@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage
+END
+Maildir.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Maildir.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Message.php
+END
+AbstractStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/AbstractStorage.php
+END
+Folder.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Folder.php
+END
+Mbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Mbox.php
+END
+Pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Pop3.php
+END
+Imap.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Imap.php
+END
+Part.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Mail/Storage/Part.php
+END

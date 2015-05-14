@@ -1,0 +1,18 @@
+ <?php
+
+	echo $this->tableform_helper()->tableForm($this->object,$this->listitems)->setAttributes(array('class'=>'table_all_form'))->setPrefix($this->prefix)
+				
+				->setColumnSortByName('Id')  
+  				->setColumnSearchByName('Name Param:Name')
+  				->setColumnSearchByName('Value Param:Value')
+  				->setStatus('Param')
+				
+// 				->setActionAdd($this->url(array('controller'=>'career','action'=>'detail')))
+  				->setActionEdit("/admin/index/detail")
+  			    ->setActionDelete("/admin/include/delete/name/param")
+				
+				->toString();
+				
+	
+	echo $this->paginator_helper()->paginator($this->paginator);
+?>

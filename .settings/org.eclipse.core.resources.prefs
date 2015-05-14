@@ -1,0 +1,18 @@
+#Tue Apr 02 14:26:56 ICT 2013
+eclipse.preferences.version=1
+encoding//module/Admin/src/Admin/Controller/AuthController.php=UTF-8
+encoding//module/Admin/src/Admin/Controller/IndexController.php=UTF-8
+encoding//module/Admin/src/Admin/Controller/PageController.php=UTF-8
+encoding//module/Admin/view/admin/index/auth.phtml=UTF-8
+encoding//module/Admin/view/admin/index/change-password.phtml=UTF-8
+encoding//module/Admin/view/admin/index/index.phtml=UTF-8
+encoding//module/Admin/view/admin/news/add.phtml=UTF-8
+encoding//module/Admin/view/admin/news/edit.phtml=UTF-8
+encoding//module/Admin/view/admin/news/index.phtml=UTF-8
+encoding//module/Admin/view/admin/page/index.phtml=UTF-8
+encoding//module/Admin/view/layout/layout.phtml=UTF-8
+encoding//module/Application/view/application/index/index.phtml=UTF-8
+encoding//module/Application/view/layout/layout.phtml=UTF-8
+encoding//public/js/application/main.js=UTF-8
+encoding//public/js/jquery.validate.js=UTF-8
+encoding//public/js/library/jstree/jquery.jstree.js=UTF-8

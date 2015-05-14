@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Loader
+END
+FileLoaderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Loader/FileLoaderInterface.php
+END
+RemoteLoaderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Loader/RemoteLoaderInterface.php
+END
+PhpArray.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Loader/PhpArray.php
+END
+Gettext.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/I18n/Translator/Loader/Gettext.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/php_projects/!svn/ver/2054/zend2admin/doctrine/Entities
+END
+StContent.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/php_projects/!svn/ver/2222/zend2admin/doctrine/Entities/StContent.php
+END
+StUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/php_projects/!svn/ver/2091/zend2admin/doctrine/Entities/StUser.php
+END
+StParam.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/php_projects/!svn/ver/2222/zend2admin/doctrine/Entities/StParam.php
+END
+StContact.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/php_projects/!svn/ver/2007/zend2admin/doctrine/Entities/StContact.php
+END
+StMediafile.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/php_projects/!svn/ver/2091/zend2admin/doctrine/Entities/StMediafile.php
+END
+StPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/php_projects/!svn/ver/2222/zend2admin/doctrine/Entities/StPage.php
+END
+StMediafolder.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/php_projects/!svn/ver/2054/zend2admin/doctrine/Entities/StMediafolder.php
+END
+StNews.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/php_projects/!svn/ver/2007/zend2admin/doctrine/Entities/StNews.php
+END

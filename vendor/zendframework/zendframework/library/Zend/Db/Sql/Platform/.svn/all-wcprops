@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Sql/Platform
+END
+PlatformDecoratorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Sql/Platform/PlatformDecoratorInterface.php
+END
+Platform.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Sql/Platform/Platform.php
+END
+AbstractPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Sql/Platform/AbstractPlatform.php
+END

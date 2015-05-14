@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/SchemaTool
+END
+AbstractCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/SchemaTool/AbstractCommand.php
+END
+DropCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/SchemaTool/DropCommand.php
+END
+CreateCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/SchemaTool/CreateCommand.php
+END
+UpdateCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/SchemaTool/UpdateCommand.php
+END

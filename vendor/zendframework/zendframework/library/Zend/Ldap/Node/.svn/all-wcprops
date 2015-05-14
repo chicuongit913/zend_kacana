@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Node
+END
+ChildrenIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Node/ChildrenIterator.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Node/Collection.php
+END
+Schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Node/Schema.php
+END
+AbstractNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Node/AbstractNode.php
+END
+RootDse.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Node/RootDse.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mime
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mime/Message.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mime/composer.json
+END
+Decode.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mime/Decode.php
+END
+Part.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mime/Part.php
+END
+Mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mime/Mime.php
+END

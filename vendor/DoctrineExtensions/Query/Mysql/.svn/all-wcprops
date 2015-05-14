@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql
+END
+IfElse.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/IfElse.php
+END
+Asin.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Asin.php
+END
+Sin.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Sin.php
+END
+Field.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Field.php
+END
+StrToDate.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/StrToDate.php
+END
+TimestampDiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/TimestampDiff.php
+END
+CharLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/CharLength.php
+END
+MatchAgainst.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/MatchAgainst.php
+END
+Year.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Year.php
+END
+Md5.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Md5.php
+END
+Atan.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Atan.php
+END
+Tan.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Tan.php
+END
+FindInSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/FindInSet.php
+END
+IfNull.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/IfNull.php
+END
+NullIf.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/NullIf.php
+END
+Sha1.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Sha1.php
+END
+Acos.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Acos.php
+END
+Sha2.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Sha2.php
+END
+Cos.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Cos.php
+END
+Degrees.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Degrees.php
+END
+Cot.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Cot.php
+END
+CountIf.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/CountIf.php
+END
+ConcatWs.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/ConcatWs.php
+END
+Atan2.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Atan2.php
+END
+Radians.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/Radians.php
+END
+DateAdd.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/DateAdd.php
+END
+DateDiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/DateDiff.php
+END
+GroupConcat.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/DoctrineExtensions/Query/Mysql/GroupConcat.php
+END

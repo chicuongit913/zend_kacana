@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Event
+END
+LoadClassMetadataEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Event/LoadClassMetadataEventArgs.php
+END
+OnClearEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Event/OnClearEventArgs.php
+END
+ManagerEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Event/ManagerEventArgs.php
+END
+PreUpdateEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Event/PreUpdateEventArgs.php
+END
+LifecycleEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Event/LifecycleEventArgs.php
+END

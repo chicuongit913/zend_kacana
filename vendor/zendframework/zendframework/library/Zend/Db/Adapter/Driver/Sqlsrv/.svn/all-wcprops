@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Sqlsrv
+END
+Sqlsrv.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Sqlsrv/Sqlsrv.php
+END
+Result.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Sqlsrv/Result.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Sqlsrv/Connection.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Sqlsrv/Statement.php
+END

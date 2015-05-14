@@ -1,0 +1,20 @@
+<?php
+// module/Album/view/album/album/add.phtml:
+
+$title = 'Đăng nhập quản trị';
+$this->headTitle($title);
+?>
+<h1><?php echo $this->escapeHtml($title); ?></h1>
+<span class="message"><?php echo $this->message; ?></span>
+<?php
+$form = $this->form;
+$form->setAttribute('action', $this->url('index', array('action' => 'auth')));
+$form->prepare();
+
+echo $this->form()->openTag($form);
+echo '<table>';
+echo '<tr><td>Tên đăng nhập</td><td>'.$this->formRow($form->get('username')).'</td></tr>';
+echo '<tr><td>Mật khẩu</td><td>'.$this->formRow($form->get('password')).'</td></tr>';
+echo '<tr><td colspan=\'2\'><input type=\'submit\' id=\'submitbutton\' value=\'Đăng nhập\'/></td></tr>';
+echo '</table>';
+echo $this->form()->closeTag();

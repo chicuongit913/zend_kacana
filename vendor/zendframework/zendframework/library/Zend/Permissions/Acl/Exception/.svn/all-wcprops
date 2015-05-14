@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Permissions/Acl/Exception
+END
+RuntimeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Permissions/Acl/Exception/RuntimeException.php
+END
+ExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Permissions/Acl/Exception/ExceptionInterface.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Permissions/Acl/Exception/InvalidArgumentException.php
+END

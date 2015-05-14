@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Pgsql
+END
+Pgsql.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Pgsql/Pgsql.php
+END
+Result.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Pgsql/Result.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Pgsql/Connection.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Pgsql/Statement.php
+END

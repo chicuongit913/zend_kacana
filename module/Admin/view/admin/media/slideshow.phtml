@@ -1,0 +1,21 @@
+<br /><br />
+<div id="view-content">
+	<?php
+	echo $this->tableForm($this->object,$this->listitems)->setAttributes(array('class'=>'table_all_form'))->setPrefix($this->prefix)
+				
+				->setColumnSortByName('Id')  // request set COLUMNS ID is First
+				
+ 				->setColumnSearchByName('name')
+ 				//->setColumnSearchByName('userName')
+				->setStatus('gallery')
+				->setPriority()
+				
+				->setActionAdd($this->url(array('controller'=>'media','action'=>'slideshowdetail')))
+				->setActionEdit($this->url(array('controller'=>'media','action'=>'slideshowdetail')))
+				->setActionDelete($this->url(array('controller'=>'include','action'=>'delete','name'=>'Gallery')))
+				
+				->toString();
+	
+	echo $this->paginator($this->paginator);
+?>
+</div>

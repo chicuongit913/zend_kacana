@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache
+END
+FileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/FileCache.php
+END
+FilesystemCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/FilesystemCache.php
+END
+RedisCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/RedisCache.php
+END
+ZendDataCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/ZendDataCache.php
+END
+XcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/XcacheCache.php
+END
+ArrayCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/ArrayCache.php
+END
+MemcachedCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/MemcachedCache.php
+END
+WinCacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/WinCacheCache.php
+END
+ApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/ApcCache.php
+END
+PhpFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/PhpFileCache.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/Cache.php
+END
+CacheProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/CacheProvider.php
+END
+MemcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Cache/MemcacheCache.php
+END

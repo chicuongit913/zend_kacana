@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Object
+END
+TriggerObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Object/TriggerObject.php
+END
+AbstractTableObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Object/AbstractTableObject.php
+END
+ConstraintObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Object/ConstraintObject.php
+END
+TableObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Object/TableObject.php
+END
+ViewObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Object/ViewObject.php
+END
+ColumnObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Object/ColumnObject.php
+END

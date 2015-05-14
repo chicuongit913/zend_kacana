@@ -1,0 +1,22 @@
+<div class="main">
+	<div class="item">
+		<a href="<?php echo $this->url('news');?>">
+		<span>Tin tức</span>
+		</a>
+	</div>
+	<div class="item">
+		<a href="<?php echo $this->url('pages', array('action' => 'index','id'=>1));?>">
+		<span>Các khoá học</span>
+		</a>
+	</div>	
+	<div class="item">
+		<a href="<?php echo $this->url('pages', array('action' => 'index','id'=>2));?>">
+		<span>Thông tin bản thân</span>
+		</a>
+	</div>
+	<div class="item">
+		<a href="<?php echo $this->url('pages', array('action' => 'index','id'=>3));?>">
+		<span>Liên hệ</span>
+		</a>
+	</div>  			
+</div>

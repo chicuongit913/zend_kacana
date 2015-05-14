@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http
+END
+Regex.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/Regex.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/Query.php
+END
+Wildcard.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/Wildcard.php
+END
+RouteMatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/RouteMatch.php
+END
+TreeRouteStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/TreeRouteStack.php
+END
+Literal.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/Literal.php
+END
+RouteInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/RouteInterface.php
+END
+Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/Method.php
+END
+Hostname.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/Hostname.php
+END
+Part.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/Part.php
+END
+Segment.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/Segment.php
+END
+Scheme.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Mvc/Router/Http/Scheme.php
+END

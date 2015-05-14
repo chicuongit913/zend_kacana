@@ -1,0 +1,710 @@
+@CHARSET "ISO-8859-1";
+
+/********************************************************************************
+SIDEBAR 
+*********************************************************************************/
+.mceEditor.defaultSkin
+{
+	
+}
+#sidebar
+{
+	display: block;
+	width: 150px;
+	height: auto;	
+	position: fixed;		
+	left: 0px;
+	top: 112px;	
+	z-index: 50;	
+}
+
+#sidebar .default
+{
+	background-image:url('/images/default/bread-03.png');
+	background-position: right ;
+	background-repeat: no-repeat;	
+	z-index: 6;	
+	padding-left: 20px;
+}
+
+#sidebar a:hover, #sidebar input:hover 
+{
+	background-image:url(/images/default/bread-01.png);
+	color: #FFFFFF;
+}
+
+#sidebar .separate
+{
+	margin-top: 20px;
+}
+
+/********************************************************************************
+FORMS  
+*********************************************************************************/
+
+/* PUBLISH BAR */
+
+#publish 
+{
+/* 	width: 100%; */
+	width: 900px;
+	height: 37px;
+	margin: 10px 30px 20px 30px;
+/* 	background-color: #EEEEEE; */
+	overflow: hidden;
+}
+
+/* SIZE FOR SPECIFIC FIELDS */
+
+#bloc_publish .created
+{	
+	background: url("/images/admin/icon-created.png") repeat-y scroll left top #F0F0F0;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 0 0;
+    display: inline-block;
+    height: 24px;
+    overflow: hidden;
+    padding: 8px 7px 0 35px;
+/* 	background-color: red; */
+}
+
+#bloc_publish .created .createdby
+{
+	font-weight: bold;
+}
+#bloc_publish .created .createdtime
+{
+	
+}
+
+#bloc_publish .updated
+{	
+	
+	background: url("/images/admin/icon-updated.png") repeat-y scroll left top #F0F0F0;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 0 0;
+    display: inline-block;
+    height: 24px;
+    overflow: hidden;
+    padding: 8px 7px 0 35px;
+	margin-left: 5px;
+}
+#bloc_publish .updated .updatedby
+{
+	font-weight: bold;
+}
+#bloc_publish .priority
+{	
+	background: url("/images/admin/icon-priority.png") repeat-y scroll left top #F0F0F0;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 0 0;
+    display: inline-block;
+    height: 24px;
+    overflow: hidden;
+    padding: 8px 7px 0 35px;
+	margin-left: 5px;
+	
+}
+#bloc_publish .priority .priorityselect
+{
+	background-color: #F0F0F0;
+    border: medium none
+}
+
+#bloc_publish .status
+{	
+	background: url("/images/admin/icon-status.png") repeat-y scroll left top #F0F0F0;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 0 0;
+    display: inline-block;
+    height: 24px;
+    overflow: hidden;
+    padding: 8px 7px 0 35px;
+	margin-left: 5px;
+/* 	background-color: red; */
+}
+
+#bloc_publish .hits
+{	
+	display: inline-block;
+	width: 100px;
+	height: 37px;	
+	overflow: hidden;
+/* 	background-color: red; */
+}
+
+#bloc_publish .home
+{	
+	display: inline-block;
+	width: 100px;
+	height: 37px;	
+	overflow: hidden;
+/* 	background-color: red; */
+}
+
+
+#bloc_publish .info
+{	
+	display: inline-block;
+	margin: 10px 10px;
+/* 	border-right: 1px solid #000000; */
+	
+}
+
+#bloc_publish .info label
+{	
+	font-size: 14px;
+	font-weight: bold;
+}
+#bloc_publish .info select
+{
+	 border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 4px 4px;
+    padding: 2px;
+}
+#bloc_publish .info input
+{		
+/* 	border: 1px solid #C3C3C3 !important;  */
+/* 	border-radius: 3px 3px 3px 3px; */
+/* 	color: #666666; */
+/* 	font: 11px Arial,sans-serif; */
+/* 	margin: 0;  */
+/* 	padding: 5px; */
+}
+
+
+/* BLOC IN FORM */
+
+.bloc_in_form
+{
+	margin: 0 30px;
+}
+.bloc_in_form .bloc_title
+{
+	background-color: #459300;
+    color: #FFFFFF;
+    display: block;
+    font-weight: bold;
+    margin: 15px -25px;
+    padding: 4px 0px 4px 35px;
+    width: 150px;
+	cursor: pointer;
+}
+
+.bloc_in_form .expand_open
+{
+	background-image: url("/images/admin/expand_open.png");
+    background-position: 8% 4px;
+	background-repeat: no-repeat;
+	border-radius: 4px;
+}
+.bloc_in_form .expand_open:hover
+{
+	background-image: url("/images/admin/expand_close.png");
+}
+.bloc_in_form .expand_close
+{
+	background-image: url("/images/admin/expand_close.png");
+    background-position: 8% 4px;
+	background-repeat: no-repeat;
+}
+.bloc_in_form .expand_close:hover
+{
+	background-image: url("/images/admin/expand_open.png");
+}
+/* BLOC MAP */
+
+
+#bloc_map .addressforhotel
+{
+	background: none repeat scroll 0 0 #EEEEEE;
+    border-radius: 0 0 5px 5px;
+	display: none; 
+    left: 274px;
+    padding: 5px 5px 2px;
+    position: relative;
+    top: -418px;
+    width: 405px;
+}
+#bloc_map .addressforhotel input
+{
+	width:400px;
+}
+
+#bloc_more_infomation .rate-hotel
+{
+	background-image: url("/images/admin/level.png");
+	display: inline-block;
+	background-repeat: none;
+	
+	width: 16px;
+	height: 16px;
+	cursor: pointer;
+}
+
+#bloc_more_infomation .rate-hotel-active
+{
+	background-image: url("/images/admin/level_on.png");
+	display: inline-block;
+	background-repeat: none;
+	
+	width: 16px;
+	height: 16px;
+	cursor: pointer;
+}
+
+/* 	TAB IN BLOC PROMOTION */
+
+#bloc_promotion #content_promotion div.tab
+{
+	margin-top: 5px;
+}
+
+#bloc_promotion #content_promotion div.tab span
+{
+	display: inline-block;
+	width:200px;
+	height: 20px;
+	text-align:center;
+	margin-left:3px;
+	color:white;
+	background-color: black;
+	
+	border-bottom-color: red;
+	border-bottom-width: 5px;
+	border-bottom-style: soild
+}
+
+#bloc_promotion #content_promotion div.tab span:hover
+{
+	cursor: pointer;
+}
+
+
+#bloc_promotion #content_promotion .form-item .zone.default table
+{
+	border: 1px solid #CCC;
+	background-color:#FFF;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1), 0 2px 2px rgba(0, 0, 0, 0.1) inset;	
+}
+
+#bloc_promotion #content_promotion .form-item .zone.default table tr
+{	
+	background-color: #DDD;	
+	text-transform: capitalize;
+}
+
+#bloc_promotion #content_promotion .form-item .zone.default table td
+{
+	height: 25px;
+	width:120px;	
+}
+
+#bloc_promotion #content_promotion .form-item .tab
+{
+	margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+#bloc_promotion #content_promotion .form-item .tab span.normal
+{
+    border-top: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    padding: 5px;	
+	cursor: pointer;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1), 0px 2px 2px rgba(0, 0, 0, 0.1) inset;
+	margin-right:2px;
+}
+
+#bloc_promotion #content_promotion .form-item .tab span.normal:hover
+{
+	background-color: #DEF1B1;
+	color: #659901;
+}
+
+#bloc_promotion #content_promotion .form-item .tab span.active
+{
+	padding: 5px 5px 0;
+	border-top: 3px solid #659901;
+}
+
+
+/* BLOC LOCATION */
+
+.field-wrapper .item-inside
+{
+	display:inline-block;
+	padding-top: 5px;
+	padding-left: 20px;
+	width: 200px;
+	vertical-align: top;
+	
+}
+.field-wrapper .item-inside label.title_inside_items_add
+{
+	
+	color:#EEEEEE;
+	font-size: 12px;
+	font-weight: bold;
+	border: 1px solid #666666;
+    border-radius: 5px 5px 5px 5px;
+	padding: 3px 5px 3px 20px;
+	background-image: url("/images/admin/icon-add.png");
+    background-position: 5% 2px;
+    background-repeat: no-repeat;
+	background-color: #666666;
+	cursor: pointer;
+}
+
+.field-wrapper .item-inside label.title_inside_items
+{
+	
+	color:#666666;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
+.field-wrapper .item-inside label.title_inside_items:hover
+{
+	background-image: url("/images/admin/icon-add.png");
+	background-color: #000000;
+}
+
+.field-wrapper .item-inside .field-wrapper-item-inside
+{
+	padding-top:5px;
+	position: relative;
+}
+.field-wrapper .item-inside .field-wrapper-item-inside .limit-field-wrapper-item-inside
+{
+	background-color: #FFFFFF;
+    height: 20px;
+    overflow: auto;
+	position: absolute;
+	width: 180px;
+	background-image: url("/images/admin/dropdown-icon.png");
+    background-position: 95% 2px;
+	background-repeat: no-repeat;
+	border: 1px solid #666666;
+}
+
+.field-wrapper .item-inside .field-wrapper-item-inside .limit-field-wrapper-item-inside:hover
+{
+    height: 150px;
+	background-image: none;
+}
+.field-wrapper .item-inside .field-wrapper-item-inside .choosed-field-wrapper-item-inside
+{
+	margin-top: 40px;
+}
+.field-wrapper .lbl_multi_checkbock
+{
+	font-weight: bold;
+	display: inline-block;
+	width: 100px;
+}
+/* SEO */
+
+#form_seo
+{
+	width: 900px;
+	margin: 0 30px;
+}
+
+/* FORMS PROPERTIES */
+
+.form-group
+{
+/* 	width: 900px; */
+	margin: 0 30px 20px 30px;
+}
+
+.form-group legend
+{
+	font-weight: bold;
+}
+
+.form-item
+{
+	width: 103%;
+}
+
+.form-item .top
+{
+	-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #ECFBDF;
+    border-color: #CCCCCC #CCCCCC #ECFBDF;
+    border-image: none;
+    border-radius: 4px 4px 0 0;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: -1px;
+    padding: 5px;
+    position: relative;
+    width: 100px;
+}
+
+
+.form-item .top .label
+{
+	font-weight: bold;
+}
+
+.form-item .top a.multi_language_expand 
+{
+	 background: url("/images/admin/country.png") no-repeat scroll 0 0 transparent;
+    color: #999999;
+    cursor: pointer;
+    display: block;
+    font-size: 11px;
+    height: 16px;
+    left: 90px;
+    position: absolute;
+    text-decoration: none;
+    top: 3px;
+    width: 16px;
+}
+.form-item .top a.multi_language_expand.Off
+{
+	display: none;
+}
+
+
+.form-item .top a.multi_language_expand:hover 
+{
+	box-shadow: 0 0 5px #80CBFF;	
+}
+
+.form-item .field-wrapper 
+{
+	background-color: #ECFBDF;
+	border: 1px solid #CCCCCC;
+    border-radius: 0 4px 4px 4px;
+    margin: 0 0 15px;
+    padding: 5px 8px 2px;
+    width: 98%;
+	
+}
+
+.form-item .field-text{
+	border: 1px solid #C3C3C3; 
+	border-radius: 3px 3px 3px 3px;
+	color: #666666;
+	font: 11px Arial,sans-serif;
+	margin-bottom:3px;
+	padding: 5px;
+    width: 99%;
+}
+.form-item textarea.field-text{
+
+	height: 300px;
+	display: block;
+}
+.form-item .textarea_text_vi, #Metakeyvi, #MetaDescvi{
+ 	background-image: url("/images/default/flag_vi.png");
+    background-position: 98% 7px;
+    background-repeat: no-repeat;
+}
+.form-item .textarea_text_en, #Metakeyen, #MetaDescen{
+ 	background-image: url("/images/default/flag_en.png");
+    background-position: 98% 7px;
+    background-repeat: no-repeat;
+	margin-top: 10px;
+}
+.form-item .textarea_text_fr, #Metakeyfr, #MetaDescfr{
+ 	background-image: url("/images/default/flag_fr.png");
+    background-position: 98% 7px;
+    background-repeat: no-repeat;
+	margin-top: 10px;
+}
+.form-item .field-text:focus
+{
+	
+	border-color: #999999;
+	box-shadow: 0 0 5px #80CBFF;
+	color: #333333;
+}
+
+/*******************************************************************************
+TOUR TYPE 
+*********************************************************************************/
+#bloc_tourtype .form-item .button-tourtype
+{
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 3px solid #EEEEEE;
+    border-radius: 10px 10px 10px 10px;
+    color: #666666;
+	display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 15px 11px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 250px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+#bloc_tourtype .form-item .button-tourtype:hover
+{
+ 	box-shadow: 0 0 5px #80CBFF;
+	text-shadow: 2px 2px 2px #80CBFF;
+}
+
+#bloc_tourtype .form-item .button-tourtype-active
+{
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 3px solid #EEEEEE;
+    border-radius: 10px 10px 10px 10px;
+	box-shadow: 0 0 5px #80CBFF;
+    color: #666666;
+	display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 15px 11px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 250px;
+	margin-left: 10px;
+	cursor: pointer;
+	text-shadow: 2px 2px 2px #80CBFF;
+}
+
+
+
+/**
+ * HOTEL PRICE, overide some css 
+ */
+
+#bloc_price .item-inside
+{
+	width:inherit;
+}
+#bloc_price .item-inside .field-wrapper-item-inside-inline
+{
+	margin-top: 10px;
+	margin-bottom: 5px
+}
+#bloc_price .item-inside .field-wrapper-item-inside-inline span.button
+{
+	display: inline-block;
+	margin-left:2px;
+	margin-bottom:-2px;
+	width:16px;
+	height:16px;	
+}
+#bloc_price .item-inside .field-wrapper-item-inside-inline span.button:hover
+{
+	opacity:0.7;
+	cursor:pointer;
+}
+
+#bloc_price .item-inside .field-wrapper-item-inside-inline span.button.add
+{
+	background: url("/images/admin/plus.png") no-repeat center center;
+}
+
+#bloc_price .item-inside .field-wrapper-item-inside-inline span.button.minus
+{
+	background: url("/images/admin/minus.png") no-repeat center center;
+}
+
+	/*sort in price*/
+
+#bloc_price .item-inside .field-wrapper-item-inside-sort
+{
+	text-align: right;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-right: 17px;
+}
+
+#bloc_price .item-inside .field-wrapper-item-inside-sort span.item
+{
+	color: gray;
+	font-size: 10px;
+}
+
+#bloc_price .item-inside .field-wrapper-item-inside-sort span.item:hover
+{
+	cursor: pointer;
+	text-decoration: underline;
+	color:red;
+}
+
+/*
+ * PERIOD IN HOTEL
+ */
+#bloc_period .item-inside
+{
+	width:inherit;
+}
+
+#bloc_period .item-inside .field-wrapper-item-inside input
+{
+	display: inline-block;
+}
+
+/* CONDITION INSIDE PROMOTION */
+
+#bloc_condition .form-item .condition_top div
+{
+	display: inline-block;
+    font-weight: bold;
+    margin-bottom: 15px;
+    width: 175px;
+}
+#bloc_condition .form-item .condition_top img
+{
+	display: inline-block;
+    width: 15px;
+	cursor: pointer;
+}
+#bloc_condition .form-item .condition_item{
+	margin-bottom: 5px;
+}
+	
+
+#bloc_condition .form-item .condition_content input
+{
+	width: 150px;
+	margin-right: 20px;
+}
+#bloc_condition .form-item .condition_content img
+{
+	cursor: pointer;
+	width: 15px;
+}
+#bloc_condition .form-item .condition_content select.condition_item_effect_type
+{
+	width: 80px;
+	margin-right: 20px;
+} 
+#bloc_condition .form-item .condition_content input.condition_effect_condition
+{
+	width: 70px;
+	margin-right: 0px;
+}
+#bloc_condition .form-item .condition_content select
+{
+	width: 150px;
+	margin-right: 20px;
+}
+#form_button_bar .button
+{
+	display: block;
+    left: 30px;
+    position: relative;
+}
+#form_button_bar img
+{
+	left: 111px;
+    position: relative;
+    top: -43px;
+    width: 60px;
+}
+

@@ -1,0 +1,21 @@
+<?php
+
+	echo $this->tableform_helper()->tableForm($this->object,$this->listitems)
+									->setAttributes(array('class'=>'table_all_form'))
+	
+				->setPrefix($this->prefix)
+				->setColumnSortByName('Id')  
+  				->setColumnSearchByName('Name Intro:Title')
+  				->setColumnSearchByName('Createdby','Created By:Displayname')
+  				->setColumnDateTimeByName('Date Time Updated:Updated')
+  				->setColumnDateByName('Date Created:Created')
+  				->setStatus('News')
+  				->setPriority()
+  				 
+  				->setActionEdit($this->url('admin',array('controller'=>'news','action'=>'detail')))
+	  			->setActionDelete($this->url('admin',array('controller'=>'news','action'=>'delete')))
+				
+				->toString();
+	
+	echo $this->paginator_helper()->paginator($this->paginator);
+?>

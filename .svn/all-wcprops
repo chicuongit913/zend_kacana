@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/php_projects/!svn/ver/2063/zend2admin
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/php_projects/!svn/ver/2007/zend2admin/LICENSE.txt
+END
+.buildpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/php_projects/!svn/ver/2007/zend2admin/.buildpath
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/php_projects/!svn/ver/2007/zend2admin/composer.json
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/php_projects/!svn/ver/2007/zend2admin/README.md
+END
+composer.phar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/php_projects/!svn/ver/2007/zend2admin/composer.phar
+END
+.zfproject.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/php_projects/!svn/ver/2007/zend2admin/.zfproject.xml
+END
+composer.lock
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/php_projects/!svn/ver/2007/zend2admin/composer.lock
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/php_projects/!svn/ver/2007/zend2admin/.project
+END
+init_autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/php_projects/!svn/ver/2007/zend2admin/init_autoloader.php
+END

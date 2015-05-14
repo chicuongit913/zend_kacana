@@ -1,0 +1,19 @@
+<?php
+	echo $this->tableform_helper()->tableForm($this->object,$this->listitems)->setAttributes(array('class'=>'table_all_form'))->setPrefix($this->prefix)
+				
+				->setColumnSortByName('Id')  // request set COLUMNS ID is First
+				
+ 				->setColumnSearchByName('displayname')
+ 				->setColumnSearchByName('username')
+ 				->setColumnSearchByName('email')
+ 				->setColumnSearchByName('level')
+							
+				->setStatus('User')
+				
+				->setActionEdit("/admin/user/detail")
+				->setActionDelete("/admin/include/delete/name/user")
+				
+				->toString();
+	
+	echo $this->paginator_helper()->paginator($this->paginator);
+?>

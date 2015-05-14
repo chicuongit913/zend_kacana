@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/Feature
+END
+MetadataFeature.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/Feature/MetadataFeature.php
+END
+GlobalAdapterFeature.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/Feature/GlobalAdapterFeature.php
+END
+EventFeature.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/Feature/EventFeature.php
+END
+FeatureSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/Feature/FeatureSet.php
+END
+RowGatewayFeature.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/Feature/RowGatewayFeature.php
+END
+MasterSlaveFeature.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/Feature/MasterSlaveFeature.php
+END
+AbstractFeature.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/TableGateway/Feature/AbstractFeature.php
+END

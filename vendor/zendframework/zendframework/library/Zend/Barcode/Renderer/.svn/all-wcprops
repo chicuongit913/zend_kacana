@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Barcode/Renderer
+END
+RendererInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Barcode/Renderer/RendererInterface.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Barcode/Renderer/Image.php
+END
+Pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Barcode/Renderer/Pdf.php
+END
+Svg.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Barcode/Renderer/Svg.php
+END
+AbstractRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Barcode/Renderer/AbstractRenderer.php
+END

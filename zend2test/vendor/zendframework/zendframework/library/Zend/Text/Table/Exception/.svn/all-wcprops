@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Text/Table/Exception
+END
+ExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Text/Table/Exception/ExceptionInterface.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Text/Table/Exception/InvalidArgumentException.php
+END
+InvalidDecoratorException.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Text/Table/Exception/InvalidDecoratorException.php
+END
+OverflowException.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Text/Table/Exception/OverflowException.php
+END
+UnexpectedValueException.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Text/Table/Exception/UnexpectedValueException.php
+END
+OutOfBoundsException.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Text/Table/Exception/OutOfBoundsException.php
+END

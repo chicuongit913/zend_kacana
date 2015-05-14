@@ -1,0 +1,23 @@
+<div class="main_media" >
+	<div class="control_media" >
+		<input type="text" id="text" class="control_media_text_search" >
+		<input type="button" value="Search" class="button control_media_button_search" id="search">
+		<input type="button" value="New Folder" class="button control_media_button_new" id="create_folder">
+		<input type="button" value="Rename Folder" class="button control_media_button_edit" id="rename">
+		<input type="button" value="Delete Folder" class="button control_media_button_delete" id="remove">
+	</div>
+	<div id="media_folder" >
+
+	</div>
+	<div id="media_file" >
+	
+	</div>
+</div>
+
+<?php
+		
+		echo $this->headScript()->appendFile('/js/admin/lightbox.js')
+								->appendFile('/js/admin/rtg.js')
+								->appendFile('/js/admin/media.js'); 
+		
+?>

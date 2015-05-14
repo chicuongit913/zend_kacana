@@ -1,0 +1,462 @@
+@CHARSET "ISO-8859-1";
+
+/********************************************************************************
+TOOLTIP FOR USER CAREER
+*********************************************************************************/
+
+#tooltip_career
+{
+	position:absolute;
+	border:1px solid #333;
+	background:#f7f5d1;
+	padding:2px 5px;
+	color:#333;
+	display:none;
+	z-index: 10000;
+}
+
+div.tooltip_career_image
+{
+	float: left;
+	padding: 2px;
+	width: 130px;
+}
+
+div.tooltip_career_info
+{
+	margin-left: 10px;
+	float: left;
+	width: 300px;
+	
+}
+
+div.tooltip_career_info label
+{
+	font-weight: bold;
+	width: 100px;
+}
+
+td a.user-career-download{
+	cursor: pointer;
+	background: url("/images/admin/download.png") no-repeat center;
+	width: 20px;
+	height: 30px;
+	display: block;
+}
+
+td a.user-career-download:hover
+{
+		background: url("/images/admin/download-active.png") no-repeat center;
+}
+
+/********************************************************************************
+	PAGING CONTROL
+*********************************************************************************/
+
+#page_control
+{
+	display: block;
+    height: 30px;
+    width: 100%;
+}
+#page_control #temp_image img
+{
+	width: 50px;
+}
+#items_page_control
+{
+	border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 4px 4px;
+    float: left;
+    margin-right: 10px;
+    padding: 3px;
+}
+#items_page_control .bg_page_control
+{
+	background: url("/images/admin/bg-button-green.gif") repeat-x scroll left top #459300 !important;
+    border: 1px solid #459300 !important;
+    border-radius: 4px 4px 4px 4px;
+    color: #FFFFFF !important;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px !important;
+    padding: 9px 7px !important;
+}
+#paging_controls
+{
+	border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 4px 4px;
+    float: right;
+    margin-right: 10px;
+    padding: 3px;
+}
+#paging_controls span
+{
+	border: 1px solid #DDDDDD;
+    border-radius: 4px 4px 4px 4px;
+    margin-left: 8px;
+    padding: 3px 6px;
+}
+#paging_controls span.active_current_page
+{
+	background:  url("/images/admin/bg-button-green.gif") repeat-x scroll left top #459300 !important;
+	color: #FFFFFF !important;
+}
+#paging_controls a
+{
+	border: 1px solid #DDDDDD;
+    border-radius: 4px 4px 4px 4px;
+    margin-left: 8px;
+    padding: 3px 6px;
+}
+
+#paging_controls .bg_paging_controls
+{
+	background: url("/images/admin/bg-button-green.gif") repeat-x scroll left top #459300 !important;
+    border: 1px solid #459300 !important;
+    border-radius: 4px 4px 4px 4px;
+    color: #FFFFFF !important;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px !important;
+    margin-left: 0;
+    padding: 9px 7px !important;
+}
+#page_control #items_page_control .select_page_control
+{
+	border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 4px 4px;
+    display: inline-block;
+    padding: 5px;
+}
+
+/********************************************************************************
+STATUS FOR ALL FORM 
+*********************************************************************************/
+.status-all-form
+{
+	cursor:pointer;
+	display: block;
+	height: 20px;
+	text-indent: -99999px;
+}
+.status-all-form .status-off
+{
+	cursor:pointer;
+	display: block;
+	height: 20px;
+	text-indent: -99999px;
+	width: 62px;
+	background: url("/images/admin/icon-off.png") no-repeat scroll 0 0 transparent;
+}
+.status-all-form .status-on
+{
+	cursor:pointer;
+	display: block;
+	height: 20px;
+	text-indent: -99999px;
+	width: 62px;
+	background: url("/images/admin/icon-on.png") no-repeat scroll 0 0 transparent;
+}
+
+/********************************************************************************
+ASK FOR ALL FORM 
+*********************************************************************************/
+.ask-all-form
+{
+	cursor:pointer;
+	display: block;
+	height: 20px;
+	text-indent: -99999px;
+}
+.ask-all-form .ask-off
+{
+	cursor:pointer;
+	display: block;
+	height: 20px;
+	text-indent: -99999px;
+	width: 62px;
+	background: url("/images/admin/ask-off.png") no-repeat scroll 20px 0 transparent;
+}
+.ask-all-form .ask-on
+{
+	cursor:pointer;
+	display: block;
+	height: 20px;
+	text-indent: -99999px;
+	width: 62px;
+	background: url("/images/admin/ask-on.png") no-repeat scroll 20px 0 transparent;
+}
+
+/********************************************************************************
+DEFAULT FOR ALL FORM 
+*********************************************************************************/
+.default-all-form
+{
+	cursor:pointer;
+	display: block;
+	height: 20px;
+	text-indent: -99999px;
+}
+.default-all-form .status-off
+{
+	cursor:pointer;
+	display: block;
+	height: 20px;
+	text-indent: -99999px;
+	width: 20px;
+	background: url("/images/admin/level.png") no-repeat scroll 0 0 transparent;
+}
+.default-all-form .status-on
+{
+	cursor:pointer;
+	display: block;
+	height: 20px;
+	text-indent: -99999px;
+	width: 20px;
+	background: url("/images/admin/level_on.png") no-repeat scroll 0 0 transparent;
+}
+
+
+/********************************************************************************
+ABOUTUS CAREER 
+*********************************************************************************/
+.user-career-black
+{
+	background: url("/images/admin/user_career_black.png")
+}
+.user-career-red
+{
+	background: url("/images/admin/user_career_red.png")
+}
+
+/********************************************************************************
+TABLE FORM
+*********************************************************************************/
+
+.table_all_form {
+	border-bottom: 1px solid #D6D6D6;
+	border-top: 1px solid #D6D6D6;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font: 12px/14px Arial,sans-serif;
+	margin: 10px 0;
+	padding: 0;
+	width: 100%;
+}
+.table_all_form thead 
+{
+	color: #5B5B5B;
+	font-weight: bold;
+}
+.table_all_form tbody tr:hover td
+{
+	background-color: #E5ECF9;
+}
+.table_all_form tbody tr:hover td .icon-button-all-form
+{
+	background-image: url("/images/admin/icons_hover.png");
+}
+.table_all_form th 
+{
+	font-weight: bold;
+	margin: 0;
+	padding: 7px 10px;
+	text-align: left;
+}
+.table_all_form td 
+{
+	
+	border-top: 1px solid #D6D6D6;
+	line-height: 18px;
+	margin: 0;
+	padding: 7px 10px;
+}
+.table_all_form td select
+{ 
+	border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 4px 4px;
+    display: inline-block;
+    padding: 2px;
+}
+.table_all_form thead td.first_column
+{
+	font-weight: bold;
+}
+.column_sort
+{
+	cursor: pointer;
+	color: blue;
+}
+.column_sort_ASC
+{
+	background-image: url("/images/admin/icons_hover.png");
+	background-position: -64px -19px;
+	height:9px;
+	cursor: pointer;
+	display:inline-block;
+	width:13px;
+	right: 0;
+}
+.column_sort_DESC
+{
+	background-image: url("/images/admin/icons_hover.png");
+	background-position: 1px -19px;
+	height:9px;
+	cursor: pointer;
+	display:inline-block;
+	width:13px;
+	right: 0;
+}
+.search_form_table
+{
+	background: url("/images/admin/bg-input-text.png") repeat-x scroll 0 0 #FFFFFF;
+	border: 1px solid #C3C3C3; 
+	border-radius: 3px 3px 3px 3px;
+	color: #666666;
+	font: 11px Arial,sans-serif;
+	margin: 0; 
+	padding: 5px;
+	width: 100px;
+}
+.search_form_table:focus
+{
+	
+	background: none repeat scroll 0 0 #FFFFFF;
+	border-color: #999999;
+	box-shadow: 0 0 5px #80CBFF;
+	color: #333333;	
+}
+
+#action_edit_delete a
+{
+	color:#5B5B5B;
+	font-size: 12px;
+	font-weight: bold;
+	border: 1px solid #D0D0D0;
+    border-radius: 5px 5px 5px 5px;
+	padding: 3px 5px 3px 20px;
+	background-image: url("/images/admin/icon-add.png");
+    background-position: 5% 2px;
+    background-repeat: no-repeat;
+	background-color: #EEEEEE;
+}
+#action_edit_delete a:hover
+{
+	color:#000000;
+	background-image: url("/images/admin/icon-add-hover.png");
+}
+
+/********************************************************************************
+BUTTON FOR FORM
+*********************************************************************************/
+
+.button_all_form
+{
+	background: none repeat scroll 0 0 #F2F2F2; 
+	min-width: 170px;
+	height:25px;
+	border: 1px solid #D0D0D0;
+	border-radius: 3px 3px 3px 3px;
+	color: #FF2F05;
+	cursor: pointer;
+	display: inline-block;
+	font:  bold 16px/16px Arial,sans-serif;
+	overflow: visible;
+	padding-top: 10px;
+	position: relative;
+	text-align: center;
+	text-decoration: none !important;
+}
+.button_all_form:hover
+{
+	background: url("/images/admin/button-bg-white-hover.png") repeat scroll center center #FFFFFF;
+	color:#AAAAAA
+}
+/********************************************************************************
+ICON FOR FORM
+*********************************************************************************/
+.icon-button-all-form
+{ 
+	display: inline-block;
+	background-image: url("/images/admin/icons.png");
+	background-repeat: no-repeat;
+	height: 16px;
+	overflow: hidden;
+	text-indent: -99999px;
+	width: 16px;
+}
+.help-for-button
+{
+	position: relative;
+	text-decoration:none;
+	cursor: pointer;
+}
+.help-for-button:hover .bullet
+{ 
+	display: block;
+	text-decoration: none;
+}
+.help-for-button:hover .queue
+{ 
+	display: block;
+	text-decoration: none;
+}
+.icon-edit-all-form
+{
+	background-position: -64px -112px;
+}
+.icon-delete-all-form
+{ 
+	background-position: -80px -128px;
+}
+.icon-email-all-form
+{ 
+	background-position: -77px -97px;
+}
+.icon-emailed-all-form
+{ 
+	background-position: -94px -97px;
+}
+.icon-copy-all-form
+{ 
+	background-position: -176px -128px;
+}
+.icon-check-all-form 
+{
+	background-position: -64px -144px;
+}
+.icon-mini-all-form
+{
+	background-position: -48px -128px;
+}
+.icon-maxi-all-form
+{
+	background-position: -16px -128px;
+}
+.bullet
+{
+	background: none repeat scroll 0 0 #5794D6;
+	border-radius: 3px 3px 3px 3px;
+	bottom: 22px;
+	color: #FFFFFF;
+	display: none;
+	font-size: 11px;
+	line-height: 14px;
+	padding: 2px 5px;
+	position: absolute;
+	right: 0;
+	text-align: center;
+}
+.queue
+{
+	bottom: 12px;
+	display: none;
+	position: absolute;
+	right: 0;
+}
+.ui-icon-triangle-1-s 
+{
+	background-position: -64px -16px;
+}
+

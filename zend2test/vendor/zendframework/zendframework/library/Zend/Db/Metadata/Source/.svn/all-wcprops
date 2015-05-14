@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Source
+END
+SqliteMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Source/SqliteMetadata.php
+END
+AbstractSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Source/AbstractSource.php
+END
+SqlServerMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Source/SqlServerMetadata.php
+END
+MysqlMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Source/MysqlMetadata.php
+END
+PostgresqlMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Metadata/Source/PostgresqlMetadata.php
+END

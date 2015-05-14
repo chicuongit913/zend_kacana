@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms
+END
+DB2Platform.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/DB2Platform.php
+END
+DrizzlePlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/DrizzlePlatform.php
+END
+PostgreSqlPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/PostgreSqlPlatform.php
+END
+SQLServer2005Platform.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/SQLServer2005Platform.php
+END
+SQLServer2008Platform.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/SQLServer2008Platform.php
+END
+SqlitePlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/SqlitePlatform.php
+END
+OraclePlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/OraclePlatform.php
+END
+SQLAzurePlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/SQLAzurePlatform.php
+END
+SQLServerPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/SQLServerPlatform.php
+END
+AbstractPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/AbstractPlatform.php
+END
+MySqlPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/MySqlPlatform.php
+END

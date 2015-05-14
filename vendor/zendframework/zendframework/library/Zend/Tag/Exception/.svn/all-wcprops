@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Tag/Exception
+END
+ExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Tag/Exception/ExceptionInterface.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Tag/Exception/InvalidArgumentException.php
+END
+InvalidAttributeNameException.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Tag/Exception/InvalidAttributeNameException.php
+END
+InvalidElementNameException.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Tag/Exception/InvalidElementNameException.php
+END
+OutOfBoundsException.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Tag/Exception/OutOfBoundsException.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Feed/PubSubHubbub/Model
+END
+AbstractModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Feed/PubSubHubbub/Model/AbstractModel.php
+END
+SubscriptionPersistenceInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Feed/PubSubHubbub/Model/SubscriptionPersistenceInterface.php
+END
+Subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Feed/PubSubHubbub/Model/Subscription.php
+END

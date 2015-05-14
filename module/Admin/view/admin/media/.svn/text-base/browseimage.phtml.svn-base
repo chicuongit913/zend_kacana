@@ -1,0 +1,33 @@
+<div id="browseimage">
+
+	<?php foreach ($this->rows as $row): ?>
+	
+	<?php //if(is_file(getcwd().'/files/images/'.$row->getSubject().'/'.$row->getAlbum().'/'.$row->getName())){?>
+	
+	<span class="image_bloc">				
+		<a class="image_item">
+			<?php 
+			
+				$folder = '/files/images/'.$row->getSubject().'/'.$row->getAlbum();						
+				//echo $this->image('img_'.$row->getName(), $folder.'/'.$row->getName(), array('alt' => 'Logo '.$row->getName()), '200x200'); 
+				
+				//$thumb = PhpThumbFactory::create(getcwd().'/files/images/'.$row->getSubject().'/'.$row->getAlbum().'/'.$row->getName());
+				//$thumb->adaptiveResize(50,50)->save(getcwd().'/files/images/'.$row->getSubject().'/'.$row->getAlbum().'/thumbs/GW_image_'.$row->getId().'_50x50.jpg');
+				//echo $thumb->getCurrentDimensions();
+			?>
+			 <img alt="<?php echo $row->getName() ;?>" src="<?php echo $this->thumb(getcwd().$folder.'/'.$row->getName(), 200, 200, getcwd().$folder.'/thumbs', $folder.'/thumbs') ;?>"/> 
+     		 <input id="src" type="hidden" value="<?php echo '/files/images/'.$row->getSubject().'/'.$row->getAlbum().'/'.$row->getName();?>">			
+     		 		
+		</a>	
+		<span class="media_tools">		
+			<span class="media_delete"><input id="id" type="hidden" value="<?php echo $row->getId();?>"></span>	
+			<span class="media_type"><?php echo $this->typefile->setValue($row->getTypefileid());?></span>	
+			<span class="loading"><img src="/images/default/loader.gif"/></span>
+		</span>
+	</span>
+	
+	
+	<?php //}?>
+	<?php endforeach; ?>
+	
+</div>

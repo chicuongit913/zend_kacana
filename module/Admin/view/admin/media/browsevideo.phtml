@@ -1,0 +1,30 @@
+<div id="browsevideo">
+	
+	<?php foreach ($this->rows as $row): ?>
+	
+	<?php if(is_file(getcwd().'/files/videos/'.$row->getSubject().'/'.$row->getAlbum().'/'.$row->getName())){?>
+	
+	<span class="video_bloc">				
+		<a class="video_item">
+			<?php echo $this->mediaplayer()->id('mediaplayer_'.$row->getId())
+									  ->width('400')
+									  ->height('225')
+									  ->file('/files/videos/'.$row->getSubject().'/'.$row->getAlbum().'/'.$row->getName())
+									  ->type('video/mp4')
+									  ->preview('/files/videos/'.$row->getSubject().'/'.$row->getAlbum().'/'.$row->getPreview())
+									  ->render(); 
+			?>
+     		 <input id="src" type="hidden" value="<?php echo '/files/videos/'.$row->getSubject().'/'.$row->getAlbum().'/'.$row->getName();?>">	
+		</a>	
+		<span class="media_tools">		
+			<span class="media_delete"><input id="id" type="hidden" value="<?php echo $row->getId();?>"></span>
+			<span class="media_add"><input id="id" type="hidden" value="<?php echo $row->getId();?>"></span>
+			<span class="media_type"><?php echo $this->typefile->setValue($row->getTypefileid());?></span>	
+			<span class="loading"><img src="/images/default/loader.gif"/></span>
+		</span>
+	</span>
+	
+	
+	<?php }?>
+	<?php endforeach; ?>
+</div>

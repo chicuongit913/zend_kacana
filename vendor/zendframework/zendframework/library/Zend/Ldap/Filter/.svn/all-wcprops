@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Filter
+END
+StringFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Filter/StringFilter.php
+END
+AbstractFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Filter/AbstractFilter.php
+END
+NotFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Filter/NotFilter.php
+END
+OrFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Filter/OrFilter.php
+END
+AbstractLogicalFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Filter/AbstractLogicalFilter.php
+END
+AndFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Filter/AndFilter.php
+END
+MaskFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Filter/MaskFilter.php
+END

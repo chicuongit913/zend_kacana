@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Validator
+END
+ObjectExistsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Validator/ObjectExistsTest.php
+END
+NoObjectExistsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-module/tests/DoctrineModuleTest/Validator/NoObjectExistsTest.php
+END

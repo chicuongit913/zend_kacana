@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-module/src/DoctrineModule/Service
+END
+EventManagerFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-module/src/DoctrineModule/Service/EventManagerFactory.php
+END
+AbstractFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-module/src/DoctrineModule/Service/AbstractFactory.php
+END
+CacheFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-module/src/DoctrineModule/Service/CacheFactory.php
+END
+CliFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-module/src/DoctrineModule/Service/CliFactory.php
+END
+DriverFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-module/src/DoctrineModule/Service/DriverFactory.php
+END
+ZendStorageCacheFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-module/src/DoctrineModule/Service/ZendStorageCacheFactory.php
+END
+AuthenticationAdapterFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/doctrine-module/src/DoctrineModule/Service/AuthenticationAdapterFactory.php
+END

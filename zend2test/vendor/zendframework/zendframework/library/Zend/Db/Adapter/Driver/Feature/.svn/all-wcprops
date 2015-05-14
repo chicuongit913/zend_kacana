@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Feature
+END
+DriverFeatureInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Feature/DriverFeatureInterface.php
+END
+AbstractFeature.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Db/Adapter/Driver/Feature/AbstractFeature.php
+END

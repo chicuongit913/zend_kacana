@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/php_projects/!svn/ver/2063/zend2admin/.settings
+END
+com.zend.php.remoteproject.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/php_projects/!svn/ver/2222/zend2admin/.settings/com.zend.php.remoteproject.core.prefs
+END
+org.eclipse.php.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/php_projects/!svn/ver/2007/zend2admin/.settings/org.eclipse.php.core.prefs
+END
+org.eclipse.core.resources.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/php_projects/!svn/ver/2222/zend2admin/.settings/org.eclipse.core.resources.prefs
+END
+org.eclipse.php.server.core.phpServersPrefs.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/php_projects/!svn/ver/2222/zend2admin/.settings/org.eclipse.php.server.core.phpServersPrefs.prefs
+END

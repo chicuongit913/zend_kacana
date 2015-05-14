@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage
+END
+Capabilities.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/Capabilities.php
+END
+OptimizableInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/OptimizableInterface.php
+END
+Event.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/Event.php
+END
+PluginManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/PluginManager.php
+END
+PostEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/PostEvent.php
+END
+FlushableInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/FlushableInterface.php
+END
+StorageInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/StorageInterface.php
+END
+ClearExpiredInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/ClearExpiredInterface.php
+END
+ClearByNamespaceInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/ClearByNamespaceInterface.php
+END
+ClearByPrefixInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/ClearByPrefixInterface.php
+END
+IterableInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/IterableInterface.php
+END
+AvailableSpaceCapableInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/AvailableSpaceCapableInterface.php
+END
+AdapterPluginManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/AdapterPluginManager.php
+END
+ExceptionEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/ExceptionEvent.php
+END
+IteratorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/IteratorInterface.php
+END
+TotalSpaceCapableInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/TotalSpaceCapableInterface.php
+END
+TaggableInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/Cache/Storage/TaggableInterface.php
+END

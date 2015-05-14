@@ -1,0 +1,31 @@
+<div id="convertvideo">
+ 
+	<?php foreach ($this->rows as $row): ?>
+	
+	<?php //if(is_file(getcwd().'/tmp/'.$row->getName())){?>
+	
+	<span class="video_bloc">				
+		<span class="video_item">
+			
+			<span class="player">
+				<?php echo $this->mediaplayer()->id('mediaplayer_'.$row->getId())->width('400')->height('225')->file('/tmp/'.$row->getName())->type('video/mp4')->render(); ?>
+			</span>
+			 
+			<span class="infos">
+				<?php echo $this->checkConversion()->id($row->getId())->file(getcwd().'/tmp/'.$row->getName())->created($row->getCreated())
+								->subject($row->getSubject())->album($row->getAlbum())->name($row->getName())
+								->render(); ?>				
+			</span>
+			
+			<span class="media_tools">		
+				<span class="media_delete"><input id="id" type="hidden" value="<?php echo $row->getId();?>"></span>	
+				<span class="loading"><img src="/images/default/loader.gif"/></span>
+			</span>
+		</span>
+		
+	</span>
+
+	<?php //}?>
+	<?php endforeach; ?>
+	
+</div>

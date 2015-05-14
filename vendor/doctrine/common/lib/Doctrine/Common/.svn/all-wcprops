@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common
+END
+NotifyPropertyChanged.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/NotifyPropertyChanged.php
+END
+EventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/EventArgs.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Version.php
+END
+Comparable.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Comparable.php
+END
+ClassLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/ClassLoader.php
+END
+Lexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/Lexer.php
+END
+EventSubscriber.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/EventSubscriber.php
+END
+EventManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/EventManager.php
+END
+PropertyChangedListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/PropertyChangedListener.php
+END
+CommonException.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/doctrine/common/lib/Doctrine/Common/CommonException.php
+END

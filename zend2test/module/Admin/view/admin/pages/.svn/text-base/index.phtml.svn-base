@@ -1,0 +1,13 @@
+<?php
+$this->headTitle($this->title);
+?>
+<h1><?php echo $this->escapeHtml($this->title); ?></h1>
+<?php
+$form = $this->form;
+$form->setAttribute('action', $this->url('pages', array('action' => 'index','id'=>$this->id)));
+$form->prepare();
+
+echo $this->form()->openTag($form);
+echo $this->formRow($form->get('content'));
+echo '<tr><td colspan=\'2\'><input type=\'submit\' id=\'submitbutton\' value=\'Cập nhật\'/></td></tr>';
+echo $this->form()->closeTag();

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/include
+END
+changepriority.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/include/changepriority.phtml
+END
+delete.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/include/delete.phtml
+END
+searchform.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/include/searchform.phtml
+END
+paginatorsearchform.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/include/paginatorsearchform.phtml
+END
+export-excel.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/include/export-excel.phtml
+END
+changehome.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/include/changehome.phtml
+END
+changedefault.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/include/changedefault.phtml
+END
+changestatus.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/php_projects/!svn/ver/2007/zend2admin/module/Admin/view/admin/include/changestatus.phtml
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager
+END
+ConfigInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/ConfigInterface.php
+END
+InitializerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/InitializerInterface.php
+END
+AbstractPluginManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/AbstractPluginManager.php
+END
+ServiceLocatorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceLocatorInterface.php
+END
+ServiceManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManager.php
+END
+ServiceLocatorAwareInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceLocatorAwareInterface.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/composer.json
+END
+FactoryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/FactoryInterface.php
+END
+AbstractFactoryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/AbstractFactoryInterface.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/Config.php
+END
+ServiceManagerAwareInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/ServiceManager/ServiceManagerAwareInterface.php
+END

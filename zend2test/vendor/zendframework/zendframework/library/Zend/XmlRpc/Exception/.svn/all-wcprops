@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/XmlRpc/Exception
+END
+RuntimeException.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/XmlRpc/Exception/RuntimeException.php
+END
+ExceptionInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/XmlRpc/Exception/ExceptionInterface.php
+END
+BadMethodCallException.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/XmlRpc/Exception/BadMethodCallException.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/XmlRpc/Exception/InvalidArgumentException.php
+END
+ValueException.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/zendframework/zendframework/library/Zend/XmlRpc/Exception/ValueException.php
+END

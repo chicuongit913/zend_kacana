@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/LICENSE.txt
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/composer.json
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/README.md
+END
+composer.phar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/composer.phar
+END
+composer.lock
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/composer.lock
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/.project
+END
+init_autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/init_autoloader.php
+END

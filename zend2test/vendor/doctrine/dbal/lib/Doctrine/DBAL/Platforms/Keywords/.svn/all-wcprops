@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords
+END
+SQLiteKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords/SQLiteKeywords.php
+END
+KeywordList.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords/KeywordList.php
+END
+OracleKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords/OracleKeywords.php
+END
+MySQLKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords/MySQLKeywords.php
+END
+DB2Keywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords/DB2Keywords.php
+END
+DrizzleKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords/DrizzleKeywords.php
+END
+PostgreSQLKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords/PostgreSQLKeywords.php
+END
+ReservedKeywordsValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords/ReservedKeywordsValidator.php
+END
+MsSQLKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords/MsSQLKeywords.php
+END

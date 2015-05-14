@@ -1,0 +1,48 @@
+<?php 
+
+$files = $this->files;
+$number_file = 0;
+foreach($files as $file)
+{
+	$file_patch = '/files/'.$file->getFolderid()->getName().'/'.$file->getName();
+	$number_file++;
+	list($width, $height, $type, $attr) = getimagesize('./public'.$file_patch);
+?>	
+	<div class="file_item"	>
+		<div class="media_file_thumb_item" >
+			<img src="<?php echo $file_patch;?>" >
+			
+			<div class="control_file_item" >
+				<span title="Delete File" class="delete_control_file" ></span>
+				<span title="Information File"  class="info_control_file" ></span>
+				<span title="Type File"  class="typefile_control_file" ></span>
+			</div>
+			
+		</div>
+		
+		
+		
+		<div class="detail_file_item" >
+			<img  alt="<?php echo $file->getName();?>" src="<?php echo $file_patch;?>">
+			<div class="detail_info_file_item" >
+				<span> File Size : </span>
+				<label><?php echo number_format((filesize('./public'.$file_patch))/1024,1);?> Kb </label>
+				
+				<span> Width : </span>
+				<label><?php echo $width;?> Px </label>
+				
+				<span> Height : </span>
+				<label><?php echo $height;?> Px </label>
+				
+				<span> Name : </span>
+				<label><?php echo $file->getName();?> </label>
+				
+			</div>
+		</div>
+	</div>
+	
+<?php 
+}
+if($number_file == 0)
+	echo 0;
+?>

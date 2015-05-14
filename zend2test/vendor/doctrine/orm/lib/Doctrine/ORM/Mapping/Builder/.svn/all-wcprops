@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Builder
+END
+AssociationBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Builder/AssociationBuilder.php
+END
+OneToManyAssociationBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Builder/OneToManyAssociationBuilder.php
+END
+FieldBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Builder/FieldBuilder.php
+END
+ManyToManyAssociationBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Builder/ManyToManyAssociationBuilder.php
+END
+ClassMetadataBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Builder/ClassMetadataBuilder.php
+END

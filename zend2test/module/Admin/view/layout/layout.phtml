@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" >
+		 <?php 
+		 
+		 	echo $this->headTitle('Quản lý')->setSeparator(' - ')->setAutoEscape(false);
+   			echo $this->headMeta()->appendName('viewport', 'width=device-width, initial-scale=1.0');
+   			
+   			echo $this->headLink(array('rel' => 'shortcut icon', 'type' => 'image/vnd.microsoft.icon', 'href' => $this->basePath() . '/images/favicon.ico'))
+   				->prependStylesheet($this->basePath() . '/css/admin/main.css')
+   				->prependStylesheet($this->basePath(). '/css/ui-lightness/jquery-ui-1.9.0.custom.min.css');
+   			
+   			echo $this->headScript()->prependFile($this->basePath().'/js/jquery-ui-1.9.0.custom.min.js')
+    								->prependFile($this->basePath() . '/js/jquery-1.8.2.min.js');
+   									
+   			
+   			echo $this->headScript()->appendFile('/js/admin/main.js');
+   			echo $this->headScript()->appendFile('/js/admin/main_control.js');
+   			echo $this->headScript()->appendFile('/js/admin/home.js');
+         ?>
+	</head>
+	
+	<body>
+	
+		<div id="body-wrapper">
+			<div id="sidebar">
+			
+				<div id="sidebar-wrapper">
+				
+					<h1 id="sidebar-title"><a href="#">Simpla Admin</a></h1>
+					
+					<!-- Logo (221px wide) -->
+					<a href="#"><img id="logo" src="/images/admin/logo.png" alt="Simpla Admin logo"></a>
+					<?php if(isset($user) && ($user->role == 'member' || $user->role == 'editor')){?>
+					<!-- Sidebar Profile links -->
+					<div id="profile-links">
+						Hello, <a href="#" title="Edit your profile"><?php // echo $user->username;?></a>, you is <a rel="modal" title="3 Messages"><?php // echo $user->role;?></a><br>
+						<br>
+						<a href="#" title="View the Site">View the Site</a> | <a href="/auth/logout" title="Sign Out">Sign Out</a>
+					</div>
+					<?php }?>	
+					<ul id="main-nav">  <!-- Accordion Menu -->
+				
+						<li>
+							<a href="/admin/index" class="nav-top-item current"> <!-- Add the class "no-submenu" to menu items with no sub menu -->
+								Home
+							</a>       
+						</li>
+						
+						<li> 
+							<a href="/admin/product" class="nav-top-item"> 
+								Product
+							</a>
+							<ul style="display: block;">
+								<li><a href="/admin/product">List product</a></li>
+								<li><a href="/admin/product/detail">Create new product</a></li>
+							</ul>
+						</li>
+						
+						<li>
+							<a href="/admin/provider" class="nav-top-item">
+								Provider
+							</a>
+							<ul style="display: block;">
+								<li><a href="/admin/provider">List provider</a></li>
+								<li><a href="/admin/provider/detail">Create new provider</a></li>
+							</ul>
+						</li>
+						
+						<li>
+							<a href="/admin/career" class="nav-top-item">
+								Career
+							</a>
+							<ul style="display: block;">
+								<li><a href="/admin/career">List career</a></li>
+								<li><a href="/admin/career/detail">Create new career</a></li>
+							</ul>
+						</li>
+						
+						<li>
+							<a href="/admin/page" class="nav-top-item">
+								Page
+							</a>
+							<ul style="display: block;">
+								<li><a href="/admin/page">List page</a></li>
+								<li><a href="/admin/page/detail">Create new page</a></li>
+							</ul>
+						</li>
+						
+						<li>
+							<a href="#" class="nav-top-item">
+								Media
+							</a>
+							<ul style="display: none;">
+								<li><a href="/admin/media/manager/layout/disable">Media</a></li>
+								<li><a href="/admin/media/subject">Subject</a></li>
+								<li><a href="/admin/media/slideshow">Slide Show</a></li>
+							</ul>
+						</li>      
+						<li>
+							<a href="/admin/user" class="nav-top-item">
+								User
+							</a>
+							<ul style="display: block;">
+								<li><a href="/admin/user">List user</a></li>
+								<li><a href=/admin/user/detail>Create new user</a></li>
+							</ul>
+						</li>
+					</ul>
+			
+				</div>
+				
+			</div>
+		</div>
+		
+<!-- Main Content		 -->
+		<div id="main_control" >
+			<div class="button_main_control" name="media" >
+				<span class="control_media" ></span>
+				<span class="text_control" >Media</span>
+			</div>
+			<div class="button_main_control" name="message" >
+				<span class="control_message"  ></span>
+				<span class="text_control" >Message</span>
+			</div>
+			<div class="button_main_control" name="layout" >
+				<span class="control_on_off" data-status="on" ></span>
+				<span class="text_control" >Content</span>
+			</div>
+			<div class="button_main_control" name="menu" >
+				<span class="control_on_off" data-status="on"  ></span>
+				<span class="text_control" >Menu</span>
+			</div>
+			<div class="button_main_control" name="popup" >
+				<span class="control_on_off" data-status="on"  ></span>
+				<span class="text_control" >Popup</span>
+			</div>
+			
+		</div>
+		
+		<div id="main-content">
+			<h2 name="text_management" >Management Control</h2>
+			<div class="clear"></div>
+			<div class="content-box"><!-- Start Content Box -->
+				
+				<div class="content-box-header">
+					
+					<h3 style="cursor: s-resize;">HOME ADMIN</h3>
+					
+					<ul class="content-box-tabs">
+						
+					</ul>
+					
+					<div class="clear"></div>
+					
+				</div>
+				
+				<div class="content-box-content">
+					<div class="cut_paper">
+						<img src="/images/admin/loading.gif">
+					</div>
+					<div class="ajax_content" name="layout_content" >
+						<?php echo $this->content;?>
+					</div>
+				</div>
+			</div>
+				
+		</div>
+		
+		<div id="list_popup" >
+			
+		</div>
+		
+		<div id="footer">
+			<small>
+				© Copyright 2012 Starseed-VN | Powered by
+			<a href="http://starseed.fr">Starseed</a>
+				|
+			<a href="#">Top</a>
+			</small>
+		</div>
+		
+		<div id="dialog">
+<!--         <input type = "button" id = "btn_search"> -->
+        	<div id = "dialog_toolbar"><div id = "manager"></div></div>
+			<div id = "dialog_content">
+				<div id = "left" ><div id="dialog_tree" class="demo"></div></div>
+<!-- 			<div id="dialog_tree" class="demo"></div> -->
+				<div id = "right">					
+					<div id="panels">
+						<div id="loader" class = "hide">
+<!-- 							<div id="mini"><img src="/images/default/loader.gif"/></div> -->
+							<div id="loading"><img src="/images/admin/preloader.gif"/></div>
+						</div>												
+						<div id="panel1" class="panel">
+						</div>
+						
+						<div id="panel2" class="panel active">
+						</div>
+						
+						<div id="panel3" class="panel">
+						</div>
+						
+						<div id="panel4" class="panel">
+						</div>
+						
+						<div id="panel5" class="panel">
+						</div>						
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+	</body>
+
+</html>

@@ -1,0 +1,29 @@
+<!-- Validation Form Panel  -->
+<div class="validation_error_panel"></div>
+<?php
+// SET DATA FOR FORM 
+$data = (isset($this->data))?$this->data:0;
+
+// BEGIN FORM 
+$this->form_helper()->beginForm();
+
+// FIELD PUBLIC FORM INCLUDE STATUS-PRIORITY-CREATED-UPDATED
+$this->publish_helper()->publish($this->data)
+						->status()
+						->toString();
+
+
+$this->form_helper()->lineForm($this->manager);
+	
+$this->group_helper()->group(array("data" => $data,"id"=>"group_infomation","name"=>"INFORMATION"))
+	 ->input(array("name_field"=>"Name Param","multilang"=>"Off","type"=>"text","id"=>"Name_Param","name"=>"Name","required"=>"required"))
+	 ->input(array("name_field"=>"Value Param","multilang"=>"Off","type"=>"text","id"=>"Value_Param","name"=>"Value","required"=>"required"))
+	 ->endgroup()
+	 
+->toString();
+
+if(isset($this->data))
+	$this->form_helper()->buttonForm('Update');
+else
+	$this->form_helper()->buttonForm('Add New');
+?>

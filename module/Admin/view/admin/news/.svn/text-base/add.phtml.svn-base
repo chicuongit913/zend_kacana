@@ -1,0 +1,20 @@
+<?php
+// module/Album/view/album/album/add.phtml:
+
+$title = 'Thêm tin tức';
+$this->headTitle($title);
+?>
+<h1><?php echo $this->escapeHtml($title); ?></h1>
+<?php
+$form = $this->form;
+$form->setAttribute('action', $this->url('news', array('action' => 'add')));
+$form->prepare();
+
+echo $this->form()->openTag($form);
+echo '<table>';
+echo $this->formHidden($form->get('id'));
+echo '<tr><td>Tiêu đề</td><td>'.$this->formRow($form->get('title')).'</td></tr>';
+echo '<tr><td>Nội dung</td><td>'.$this->formRow($form->get('content')).'</td></tr>';
+echo '<tr><td colspan=\'2\'><input type=\'submit\' id=\'submitbutton\' value=\'Thêm\'/></td></tr>';
+echo '</table>';
+echo $this->form()->closeTag();

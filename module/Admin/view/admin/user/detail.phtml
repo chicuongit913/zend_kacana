@@ -1,0 +1,34 @@
+<!-- Validation Form Panel  -->
+
+<div class="validation_error_panel"></div>
+
+<?php
+// SET DATA FOR FORM
+$data = (isset($this->data))?$this->data:0;
+
+// BEGIN FORM
+$this->form_helper()->beginForm();
+
+// FIELD PUBLIC FORM INCLUDE STATUS-PRIORITY-CREATED-UPDATED
+$this->publish_helper()->publish($this->data)
+						->status()
+						->toString();
+
+$this->form_helper()->lineForm($this->manager);
+	
+$this->group_helper()->group(array("data" => $data,"id"=>"group_infomation","name"=>"INFORMATION"))
+
+	->input(array("name_field"=>"User name","type"=>"text","id"=>"username","name"=>"userName","required"=>"required"))
+	->input(array("name_field"=>"Display name","type"=>"text","id"=>"displayname","name"=>"displayName","required"=>"required"))
+	->input(array("name_field"=>"Email","type"=>"text","id"=>"email","name"=>"email","required"=>"required"))
+	->input(array("name_field"=>"Pass","type"=>"password","id"=>"password","name"=>"pass","required"=>"required"))
+	->dropdown(array("name_field"=>"Level","get"=>array("admin"=>"admin","editor"=>"editor","member"=>"member"),"name"=>"Level","use_array"=>"On","required"=>"required"))
+	->endgroup()
+	
+	->toString();
+	
+if(isset($this->data))
+	$this->form_helper()->buttonForm('Update');
+else
+	$this->form_helper()->buttonForm('Add New');
+?>

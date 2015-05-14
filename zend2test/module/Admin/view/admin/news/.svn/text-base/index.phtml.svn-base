@@ -1,0 +1,20 @@
+<a class="add" href="<?php echo $this->url('news',array('action'=>'add'));?>">Thêm tin tức</a>
+<table class="table" cellspacing="0">
+	<tbody>
+		<tr>
+			<th>Ngày tạo</th>
+			<th>Tiêu đề</th>
+			<th>Nội dung</th>
+			<th>Thao tác</th>
+		</tr>
+		<?php foreach($this->data as $item){?>
+		<tr>
+			<td><?php echo date('H:i:s d/m/Y',$item->getCreated()); ?></td>
+			<td><?php echo $item->getTitle(); ?></td>
+			<td><?php echo $item->getContent(); ?></td>
+			<td><a href="<?php echo $this->url('news',array('action'=>'edit','id'=>$item->getId()));?>">Sửa</a> <a href="<?php echo $this->url('news',array('action'=>'delete','id'=>$item->getId()));?>">Xoá</a></td>
+		</tr>
+		<?php }?>
+		
+	</tbody>
+</table>

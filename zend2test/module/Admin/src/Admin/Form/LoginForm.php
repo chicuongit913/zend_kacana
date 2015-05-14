@@ -1,0 +1,23 @@
+<?php
+namespace Admin\Form;
+
+use Zend\Form\Form;
+
+class LoginForm extends Form
+{
+	public function __construct($name = null)
+	{
+		parent::__construct('login');
+		$this->setAttribute('method','post');
+		
+		$this->add(array(
+				'name'=>'username',
+				'attributes'=>array('type'=>'text')
+		));
+		$this->add(array(
+				'name'=>'password',
+				'attributes'=>array('type'=>'password')
+		));
+		
+	}
+}

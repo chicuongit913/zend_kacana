@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/Configuration.php
+END
+DBALConnection.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/DBALConnection.php
+END
+EntityResolver.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/EntityResolver.php
+END
+EntityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/EntityManager.php
+END
+DBALConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/DBALConfiguration.php
+END
+SQLLoggerCollectorOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Options/SQLLoggerCollectorOptions.php
+END

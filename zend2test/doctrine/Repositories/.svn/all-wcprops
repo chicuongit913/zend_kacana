@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/doctrine/Repositories
+END
+ManagerRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/doctrine/Repositories/ManagerRepository.php
+END
+ContactRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/doctrine/Repositories/ContactRepository.php
+END
+NewsRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/doctrine/Repositories/NewsRepository.php
+END
+LogRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/doctrine/Repositories/LogRepository.php
+END
+PagesRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/php_projects/!svn/ver/2007/zend2admin/zend2test/doctrine/Repositories/PagesRepository.php
+END

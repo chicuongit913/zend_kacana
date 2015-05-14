@@ -1,0 +1,199 @@
+.main_media
+{
+	
+}
+/***********************************************************************
+ *
+ * 	MEDIA CONTROL( Search - Delete - Create - Edit Folder )
+ *
+ ***********************************************************************/
+.main_media .control_media
+{
+	border-bottom: 1px solid #CCCCCC;
+    height: 29px;
+    margin: -38px 10px 5px;
+    width: 580px;
+}
+
+.main_media .control_media .button
+{
+	margin-left: 5px;
+    padding: 2px 8px !important;
+}
+
+.main_media .control_media .control_media_text_search
+{
+	border: 1px solid #CCCCCC;
+    border-radius: 4px 4px 4px 4px;
+    height: 20px;
+}
+
+.main_media .control_media .control_media_button_new
+{
+	
+}
+
+.main_media .control_media .control_media_button_edit
+{
+	
+}
+
+.main_media .control_media .control_media_button_delete
+{
+	
+}
+
+.main_media #media_folder
+{
+	border-right: 1px solid #CCCCCC;
+	display: inline-block;
+    height: 400px;
+    margin-bottom: 5px;
+    overflow: auto;
+    padding: 2px;
+    width: 170px;
+}
+
+/***********************************************************************
+ *
+ * 	MEDIA FILE ( DIV FILE )
+ *
+ ***********************************************************************/
+
+.main_media #media_file
+{
+	display: inline-block;
+    height: 400px;
+    overflow: auto;
+    width: 421px;
+}
+.main_media #media_file .loading_file
+{
+	margin-top: 100px;
+}
+.main_media #media_file .media_no_file
+{
+	background: url("/images/admin/exclamation.png") no-repeat scroll 10px 10px #FFFBCC;
+    border: 1px solid #E6DB55;
+    border-radius: 4px 4px 4px 4px;
+    height: 12px;
+    margin: 120px;
+    padding: 12px 0 12px 13px;
+    text-align: center;
+    width: 200px;
+}
+
+/***********************************************************************
+ *
+ * 	FILE ITEM ( File - Detail file )
+ *
+ ***********************************************************************/
+
+.main_media #media_file .file_item
+{
+	display: inline-block;
+}
+.main_media #media_file .file_item .detail_file_item
+{
+	position: absolute;
+	display: none;
+	z-index: 10;
+}
+.main_media #media_file .file_item .detail_file_item img
+{
+	width: 292px;
+}
+.main_media #media_file .file_item .detail_file_item .detail_info_file_item
+{
+	background: none repeat scroll 0 0 rgba(54, 25, 25, 0.5);
+    border-radius: 0 0 4px 4px;
+    bottom: 5px;
+    color: white;
+    height: 28px;
+    left: 4px;
+    padding: 3px;
+    position: absolute;
+    width: 286px;
+}
+
+.main_media #media_file .file_item .detail_file_item .detail_info_file_item span
+{
+	color: #8FDD4A;
+    font-weight: bold;
+}
+
+.main_media #media_file .file_item .detail_file_item .detail_info_file_item label
+{
+	
+}
+
+.main_media #media_file .file_item img
+{
+	width: 90px;
+	border: 2px solid #CCCCCC;
+    border-radius: 4px 4px 4px 4px;
+    margin: 2px;
+}
+
+
+
+/***********************************************************************
+ *
+ * 	MEDIA CONTROL FILE ITEM ( Delete - Info - Type File )
+ *
+ ***********************************************************************/
+.main_media #media_file .file_item .media_file_thumb_item
+{
+	height: 76px;
+    overflow: hidden;
+    width: 100px;
+}
+
+.main_media #media_file .file_item .control_file_item
+{
+	 background: none repeat scroll 0 0 rgba(54, 25, 25, 0.5);
+    border-radius: 0 0 2px 2px;
+    bottom: 1px;
+    color: white;
+    height: 12px;
+    left: 4px;
+    padding: 3px;
+    position: relative;
+    width: 84px;
+}
+
+.main_media #media_file .file_item .control_file_item span
+{
+	display: inline-block;
+    height: 25px;
+    width: 25px;
+	cursor: pointer;
+}
+
+.main_media #media_file .file_item .control_file_item span.delete_control_file
+{
+	background: url("/images/admin/media-delete-file.png") no-repeat scroll 0 -3px transparent;
+}
+.main_media #media_file .file_item .control_file_item span.delete_control_file:hover
+{
+	background: url("/images/admin/media-delete-hover-file.png") no-repeat scroll 0 -3px transparent;
+}
+
+.main_media #media_file .file_item .control_file_item span.info_control_file
+{
+	background: url("/images/admin/media-info-file.png") no-repeat scroll 3px -3px transparent;
+}
+.main_media #media_file .file_item .control_file_item span.info_control_file:hover
+{
+	background: url("/images/admin/media-info-hover-file.png") no-repeat scroll 3px -3px transparent;
+}
+
+.main_media #media_file .file_item .control_file_item span.typefile_control_file
+{
+	background: url("/images/admin/media-more-file.png") no-repeat scroll 6px -3px;
+}
+.main_media #media_file .file_item .control_file_item span.typefile_control_file:hover
+{
+	background: url("/images/admin/media-more-hover-file.png") no-repeat scroll 6px -3px;
+}
+

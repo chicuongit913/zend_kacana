@@ -1,0 +1,17 @@
+<?php
+	echo $this->tableForm($this->object,$this->listitems)->setAttributes(array('class'=>'table_all_form'))->setPrefix($this->prefix)
+				
+				->setColumnSortByName('Id')  // request set COLUMNS ID is First
+				
+ 				->setColumnSearchByName('Name')
+ 				->setColumnSearchByName('Subject Name:Subject')
+ 				->setColumnSearchByName('Album')
+				->setStatus('Subject')
+				->setPriority()
+				
+				->setActionDelete($this->url(array('controller'=>'include','action'=>'delete','name'=>'Subject')))
+				
+				->toString();
+	
+	echo $this->paginator($this->paginator);
+?>

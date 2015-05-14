@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Node/Schema/AttributeType
+END
+ActiveDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Node/Schema/AttributeType/ActiveDirectory.php
+END
+OpenLdap.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Node/Schema/AttributeType/OpenLdap.php
+END
+AttributeTypeInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/php_projects/!svn/ver/2007/zend2admin/vendor/zendframework/zendframework/library/Zend/Ldap/Node/Schema/AttributeType/AttributeTypeInterface.php
+END
